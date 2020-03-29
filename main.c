@@ -2,6 +2,7 @@
 #include <string.h>
 
 int main(){
+	int t;
 	printf("d");
 	printf("hello");
 	printf("git");
