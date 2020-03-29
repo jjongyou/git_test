@@ -1,5 +1,8 @@
 #include <stdio.h>
+#include <string.h>
+
 int main(){
-	printf("status");
+	printf("hello");
+	printf("git");
 	return 0;
 }
