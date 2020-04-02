@@ -3,5 +3,6 @@
 
 int main(){
 	int t, m;
+	printf("get genius");
 	return 0;
 }
