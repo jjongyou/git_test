@@ -3,6 +3,6 @@
 
 int main(){
 	int t, m;
-	printf("get genius");
+	printf("idiot");
 	return 0;
 }
